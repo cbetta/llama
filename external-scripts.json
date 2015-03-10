@@ -10,5 +10,19 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-youtube",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-thank-you",
+  "hubot-victory",
+  "hubot-seen",
+  "hubot-fliptable",
+  "hubot-motivate",
+  "hubot-qr",
+  "hubot-tell",
+  "hubot-reaction",
+  "hubot-euphemism",
+  "hubot-bikeshed",
+  "hubot-humanity",
+  "hubot-seriouslyguys",
+  "hubot-dogeme",
+  "hubot-9gag"
 ]
